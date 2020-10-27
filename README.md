@@ -1,1 +1,1 @@
-[false, false, "x", "com.maxmpz.audioplayer", "https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer", "com.cxinventor.file.explorer", "https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer"]
+[false, false, "x", "com.shaiban.audioplayer.mplayer", "https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer", "com.cxinventor.file.explorer", "https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer"]
