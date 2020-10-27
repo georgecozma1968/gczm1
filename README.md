@@ -1,1 +1,1 @@
-[false, false, "x", "instagram://user?username=abc", "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_US&gl=US", "instagram://user?username=abc", "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_US&gl=US"]
+[false, false, "x", "com.cxinventor.file.explorer", "https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer", "audio.virtualizer.equalizer.bassbooster.musicplayer", "https://play.google.com/store/apps/details?id=audio.virtualizer.equalizer.bassbooster.musicplayer"]
