@@ -1,1 +1,1 @@
-[false, false, "x", "audio.virtualizer.equalizer.bassbooster.musicplayer", "https://play.google.com/store/apps/details?id=audio.virtualizer.equalizer.bassbooster.musicplayer", "com.cxinventor.file.explorer", "https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer"]
+[false, false, "x", "com.maxmpz.audioplayer", "https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer", "com.cxinventor.file.explorer", "https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer"]
