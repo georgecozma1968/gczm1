@@ -1,6 +1,6 @@
 [
 true, 
-true, 
+false, 
 false, 
 "x", 
 "com.shaiban.audioplayer.mplayer", 
