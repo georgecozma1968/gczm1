@@ -1,7 +1,7 @@
 [
-true, 
 false, 
-true, 
+false, 
+false, 
 "x", 
 "com.shaiban.audioplayer.mplayer", 
 "https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer", 
