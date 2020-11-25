@@ -1,1 +1,1 @@
-[true, true, false, "x", "com.shaiban.audioplayer.mplayer", "https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer", "com.devstudios.xplore", "https://play.google.com/store/apps/details?id=com.devstudios.xplore"]
+[false, true, false, "x", "com.shaiban.audioplayer.mplayer", "https://play.google.com/store/apps/details?id=com.shaiban.audioplayer.mplayer", "com.devstudios.xplore", "https://play.google.com/store/apps/details?id=com.devstudios.xplore"]
